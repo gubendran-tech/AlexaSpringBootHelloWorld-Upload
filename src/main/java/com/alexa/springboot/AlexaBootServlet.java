@@ -20,7 +20,7 @@ import com.amazon.speech.speechlet.servlet.SpeechletServlet;
 /**
  * 
  * http://stackoverflow.com/questions/40556117/is-it-possible-to-create-a-custom-alexa-skill-with-spring-boot-https-endpoint
- * hello testing
+ * hello tes
  */ 
 public class AlexaBootServlet extends SpeechletServlet {
 
